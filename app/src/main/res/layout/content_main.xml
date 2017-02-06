@@ -16,5 +16,15 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Hello World!" />
+        android:text="Hola Mundo 3" />
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Puto Rojo" />
+    <TextView
+        android:layout_width="wrap_content"
+        android:text="Parra Putillo"
+        android:layout_height="wrap_content" />
 </RelativeLayout>
