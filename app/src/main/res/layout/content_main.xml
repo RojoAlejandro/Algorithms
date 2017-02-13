@@ -18,13 +18,23 @@
         android:layout_height="wrap_content"
         android:text="Hola Mundo 3" />
 
-
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Puto Rojo" />
+
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Parra WEY"/>
+        android:text="Parra WEY" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Tengo hambre" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Tengo hambre X2" />
 </RelativeLayout>
