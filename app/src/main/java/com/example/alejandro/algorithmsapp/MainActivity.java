@@ -28,8 +28,7 @@ public class MainActivity extends AppCompatActivity
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
-        setSupportActionBar(toolbar);
+        //Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
 
         setTitle("");
 
@@ -85,9 +84,9 @@ public class MainActivity extends AppCompatActivity
             public CharSequence getPageTitle(int position) {
                 switch (position % 4) {
                     case 0:
-                        return "Selection";
+                        return "Basic";
                     case 1:
-                        return "Actualités";
+                        return "Divide";
                     case 2:
                         return "Professionnel";
                     case 3:
