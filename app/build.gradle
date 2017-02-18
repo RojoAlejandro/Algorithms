@@ -31,4 +31,5 @@ dependencies {
         transitive = true
     }
 
+    compile 'jp.wasabeef:recyclerview-animators:1.2.2'
 }
